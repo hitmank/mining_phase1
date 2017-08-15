@@ -1,3 +1,14 @@
 -> Setup Cloudera and Hadoop.
 -> Watch Udacity videos comepletely and do all their practical examples.
--> Find a good resourse for data mining. (Preferably uses python and is not much theory oriented)
+-> Find a good resourse for data mining. (Preferably uses python and is not much theory oriented):
+  1. Udacity data analyst courses:
+    Bike data analysis
+    Descriptive Statistics 
+    Intro to Data Analysis 
+    Data Wrangling with Mongodb 
+    Exploratory data analysis using R
+    Inferential statistics 
+    Introduction to Machine Learning 
+    Data visualization in Tableau
+  2. Coursera course by University of Michigan: https://www.coursera.org/specializations/data-science-python
+  3. Coursera course by John Hopkins university: https://www.coursera.org/specializations/jhu-data-science
